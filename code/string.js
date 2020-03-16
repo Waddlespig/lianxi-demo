@@ -14,7 +14,7 @@ function reverse_string_2(v) {
 }
 
 /*
-* 连续的字符串
+* 寻找连续重复的0和1
 * 例：00110011 => ["0011", "01", "1100", "10", "0011", "01"]
 * */
 function consecutive_string(v) {
